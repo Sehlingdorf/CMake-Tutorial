@@ -1,0 +1,12 @@
+# temporary files 
+*.swp
+
+CMakeFiles
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+Tutorial
+TutorialConfig.h
+*.a
